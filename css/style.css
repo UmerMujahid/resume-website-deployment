@@ -303,11 +303,9 @@ a:hover{
 }
 @media (max-width:390px){
     .main { 
-        
-       padding: 25px;
-       margin-top: -10px;
-       margin-bottom: -10px;
-        
+        margin: -7px;
+        margin-left: -20px;
+        margin-right: -20px;
     }
     footer{
         display: flex;
