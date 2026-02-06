@@ -11,9 +11,9 @@ Umer Mujahid
 This repository contains a clean, responsive CV website that showcases my contact information, education, skills, projects/experience, and certificates. The site uses a simple, professional design.
 
 ## Live Demo
-The site is published using GitHub Pages:  
+The site is deployed using vercel:  
 ## Live link:
-https://YOUR_GITHUB_USERNAME.github.io/REPO-NAME/  
+umer-mujahid-cv.vercel.app  
 
 ## Features
 - Header with name, title and portrait
