@@ -306,6 +306,7 @@ a:hover{
         margin: -7px;
         margin-left: -20px;
         margin-right: -20px;
+        margin-top: -7px;
     }
     footer{
         display: flex;
@@ -326,5 +327,19 @@ a:hover{
     h1.s:last-of-type {
         margin-bottom: 30px;
     }
+    @keyframes fadeIn{ /*help from online*/
+  from{
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.main{
+  animation: fadeIn 1s ease forwards;
+}
+
 
 }
