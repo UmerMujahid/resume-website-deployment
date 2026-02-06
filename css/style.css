@@ -340,6 +340,10 @@ a:hover{
 .main{
   animation: fadeIn 1s ease forwards;
 }
+.experience{
+    margin-top: 5px;
+    margin-bottom: -20px;
+}
 
 
 }
