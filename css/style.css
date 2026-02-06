@@ -302,6 +302,13 @@ a:hover{
     }
 }
 @media (max-width:390px){
+    .main { 
+        
+       padding: 25px;
+       margin-top: -10px;
+       margin-bottom: -10px;
+        
+    }
     footer{
         display: flex;
         flex-direction: column;
